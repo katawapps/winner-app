@@ -1,0 +1,40 @@
+.cajita{
+    
+    border: 1px solid lightblue; 
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 18px;
+    
+}
+.cajita:focus{
+    
+   box-shadow: 5px 5px 27px red;
+    transition: 1s;
+    
+}
+
+.miboton{
+    
+    background-color: orangered;
+    color: white;
+    padding: 15px;
+    border: none;
+      border-radius: 10px;
+    
+}
+.menu{
+    width: 100%;
+    
+}
+.menu-item{
+  display: inline-block;
+  background-color: black;
+    padding: 10px;
+     border-radius: 10px;
+     
+}
+.menu-a{
+ color:white;
+ margin: 10px;
+     
+}
