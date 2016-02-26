@@ -13,6 +13,7 @@
         <li class="menu-item"><a class="menu-a" href="">INICIO</a></li>
         <li class="menu-item"><a class="menu-a" href="">NOSOTROS</a></li>
         <li class="menu-item"><a class="menu-a" href="">GALERIA</a></li>
+        <li class="menu-item"><a class="menu-a" href="">PRODUCTOS</a></li>
         <li class="menu-item"><a class="menu-a" href="">CONTACTENOS</a></li>
          
     </ul>
